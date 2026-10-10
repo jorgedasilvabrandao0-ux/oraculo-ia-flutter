@@ -1,0 +1,9 @@
+.env
+.env.*
+*.pem
+*.key
+*.jks
+*.keystore
+key.properties
+.dart_tool/
+build/
